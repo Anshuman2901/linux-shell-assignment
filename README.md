@@ -23,7 +23,7 @@ This script logs CPU and memory usage every 60 seconds into a log file.
 
 
 Log file location:
-/home/<username>/system_usage.log
+/home/<Anshuman2901>/system_usage.log
 
 
 ---
@@ -61,3 +61,5 @@ B.Tech CSE, Semester 1
 
 ## 🔗 GitHub Repository Link
 Paste your repo link here:
+https://github.com/Anshuman2901/linux-shell-assignment
+
